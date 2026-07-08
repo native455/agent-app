@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">MyAgent</string>
     <string name="accessibility_service_description">Reads on-screen elements so the agent can eventually act on your behalf. Currently read-only.</string>
-    <string name="accessibility_service_description">Reads on-screen elements so the agent can eventually act on your behalf. Currently read-only.</string>
 </resources>
